@@ -1,0 +1,1 @@
+var objetos = Array('Cadeira', 'Impressora', 'Garfo'); 
